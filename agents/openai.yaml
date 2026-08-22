@@ -1,0 +1,7 @@
+interface:
+  display_name: "Chinese Grill Me"
+  short_description: "通过结构化追问完善编程产品构思、技术方案与开发提示词"
+  default_prompt: "Use $grill-me-chinese to pressure-test and refine my programming product idea in Chinese."
+
+policy:
+  allow_implicit_invocation: true
